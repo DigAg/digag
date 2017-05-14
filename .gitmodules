@@ -1,0 +1,9 @@
+[submodule "digag-server"]
+	path = digag-server
+	url = https://github.com/DigAg/digag-server
+[submodule "digag-pc-vue2"]
+	path = digag-pc-vue2
+	url = https://github.com/DigAg/digag-pc-vue2
+[submodule "digag-pc-react"]
+	path = digag-pc-react
+	url = https://github.com/DigAg/digag-pc-react
