@@ -9,3 +9,14 @@
 
 ### Css相关规范
 * 命名: BEM (Block__Element--Modifier)
+
+### 使用说明
+* Init git submodule
+```
+git submodule init
+```
+
+* Pull all
+```
+git submodule update
+```
